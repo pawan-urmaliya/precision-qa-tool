@@ -1,0 +1,7 @@
+{
+  "name": "Precision QA Tool - Apparel Label Audit",
+  "description": "A high-end enterprise application for automated quality assurance of apparel labels using Gemini 3 Pro AI. Compare master specifications against production samples with sub-pixel precision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
